@@ -54,9 +54,9 @@ p {
 }
 
 #ad {
-    display:box;
+    display: box;
     margin:auto;
     text-align: center;
     padding-bottom: 60px;
-    width: 70%;
+    
 }
