@@ -5,8 +5,8 @@
 #header {
     background: linear-gradient(to bottom right, lightcoral, lightpink);
     padding: 8px;
-    height: 50px;
-    font-size: 30px;
+    height: 120px;
+    font-size: 80px;
     text-align: center;
 
     position: sticky;
@@ -18,8 +18,8 @@
 #footer {
     background-color: whitesmoke;
     padding: 8px;
-    height: 20px;
-    font-size: 12px;
+    height: 40px;
+    font-size: 30px;
     text-align: center;
 
     position: fixed;
@@ -37,7 +37,7 @@ p {
 
 #message {
     display: block;
-    font-size: 25px;
+    font-size: 50px;
     margin: auto;
     padding-bottom: 40px;
     width:60%;
