@@ -10,6 +10,10 @@
 
 <script>
     var audio = new Audio('waterfall.wav');
+    audio.addEventListener('ended', function() {
+        this.currentTime = 0;
+        this.play();
+    }, false);
 </script>
 
 <script>
